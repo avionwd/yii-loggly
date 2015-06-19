@@ -1,0 +1,16 @@
+{
+  "name": "avionwd/yii-loggly",
+  "description": "The Yii log router class for Loggly.com service",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Oleksandr Muzychenko",
+      "email": "avionwd@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">5.4",
+    "yiisoft/yii": "~1.1.*"
+  }
+}
